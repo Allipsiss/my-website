@@ -30,7 +30,7 @@ weight = 1
   year = 2020
   
 [[education.courses]]
-  course = "BSc in Biology"
+  course = "BSc in Med"
   institution = "University of Tabriz, Iran"
   year = 2017
 

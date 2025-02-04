@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "Hassan Saei"
+title = "Ali Pirsadeghi"
 copyright = "&copy; 2024 Hassan Saei"
 theme = "hugo-academic"
 enableEmoji = true
@@ -25,13 +25,13 @@ publishDir = "docs"
   fractions = false
 
 [params]
-  name = "Hassan Saei, MSc. PhD."
+  name = "Ali Pirsadeghi, MSc."
   role = "Postdoctoral fellow at Imagine Institute of Genetic Diseases"
   organization = "U 1163, Paris, France"
   organization_url = "https://www.institutimagine.org/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Pasteur_2024.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "hassan.saeiahan@gmail.com"
+  email = "pirsadeghiali@gmail.com"
   address = "Office 516-B1, Inserm UMR 1163, Institut Imagine, 24 boulevard de Montparnasse, 75015 Paris, France"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
